@@ -1,0 +1,24 @@
+Timestamp,Email Address,Score,What is your name?,1) What is wrong with the following code snippet?,2) What is the output of this code?,3) Which type of statement can more concisely replace the code on lines 3-13?,4) Which of the following connects a variable in source code to an object in the storyboard?
+3/16/2022 14:52:02,ashleytien121@gmail.com,1 / 4,Ashley Tien,b) You cannot increment a Double with an Int literal,a) 6,c) A switch statement,b) Action
+3/16/2022 14:52:54,raqrod@gmail.com,2 / 4,Raquel Rosario,b) You cannot increment a Double with an Int literal,a) 6,c) A switch statement,d) Outlet
+3/16/2022 14:53:31,ashleymasih24@gmail.com,3 / 4,Ashley Masih,c) x must be initialized as a var.,a) 6,c) A switch statement,d) Outlet
+3/16/2022 14:54:21,tony.seto@yahoo.com,2 / 4,Tony seto,b) You cannot increment a Double with an Int literal,a) 6,c) A switch statement,d) Outlet
+3/16/2022 14:54:23,destinyhowell45@gmail.com,3 / 4,Destiny Howell,c) x must be initialized as a var.,"c) ""6""",c) A switch statement,d) Outlet
+3/16/2022 14:54:36,altphono@gmail.com,2 / 4,Femi Agana,c) x must be initialized as a var.,"c) ""6""",c) A switch statement,b) Action
+3/16/2022 14:56:26,kjmempire87corporation@gmail.com,2 / 4,Kyum McFadden,b) You cannot increment a Double with an Int literal,"b) ""5""",c) A switch statement,d) Outlet
+3/16/2022 14:57:17,karla.de.greef@gmail.com,2 / 4,Karla Rojas,b) You cannot increment a Double with an Int literal,d) Code does not compile,c) A switch statement,a) View Controller
+3/16/2022 14:57:27,oswald_vargas@hotmail.com,0 / 4,Oswald Vargas,d) Nothing.,a) 6,a) if-else statements,a) View Controller
+3/16/2022 14:58:10,kdjones89.kj@gmail.com,3 / 4,Kenneth Jones,a) x must be an Integer type.,d) Code does not compile,c) A switch statement,d) Outlet
+3/16/2022 19:42:12,rainikka@gmail.com,3 / 4,Rainikka Corprew,a) x must be an Integer type.,d) Code does not compile,c) A switch statement,d) Outlet
+3/16/2022 19:42:52,lzwmichelle@gmail.com,4 / 4,Ziu Wing Michelle Lo,c) x must be initialized as a var.,d) Code does not compile,c) A switch statement,d) Outlet
+3/16/2022 19:43:54,jwollner6@gmail.com,2 / 4,Julia ,b) You cannot increment a Double with an Int literal,"b) ""5""",c) A switch statement,d) Outlet
+3/16/2022 19:44:04,seuss012@gmail.com,3 / 4,Assata Arango,c) x must be initialized as a var.,d) Code does not compile,c) A switch statement,a) View Controller
+3/16/2022 19:44:08,cruzfonseca2003@gmail.com,1 / 4,javier cruz,a) x must be an Integer type.,a) 6,c) A switch statement,b) Action
+3/16/2022 19:44:44,itsjoyceq@gmail.com,2 / 4,Joyce Qian,b) You cannot increment a Double with an Int literal,d) Code does not compile,a) if-else statements,d) Outlet
+3/16/2022 19:44:52,shawna@abcclub.org,2 / 4,Shawna Doherty,b) You cannot increment a Double with an Int literal,a) 6,c) A switch statement,d) Outlet
+3/16/2022 19:45:23,nukat59@gmail.com,2 / 4,Nhu Tran,b) You cannot increment a Double with an Int literal,d) Code does not compile,c) A switch statement,a) View Controller
+3/16/2022 19:45:29,ulisesnyc9@gmail.com,1 / 4,Ulises Hernandez,a) x must be an Integer type.,d) Code does not compile,a) if-else statements,b) Action
+3/17/2022 1:24:30,yanfeywu@gmail.com,2 / 4,Yanfei Wu,c) x must be initialized as a var.,d) Code does not compile,a) if-else statements,a) View Controller
+3/19/2022 12:49:40,angie.chuang3@gmail.com,1 / 4,Angie Chuang,b) You cannot increment a Double with an Int literal,"c) ""6""",c) A switch statement,b) Action
+3/21/2022 9:11:26,jmvtheoo@gmail.com,1 / 4,Jerusha E,b) You cannot increment a Double with an Int literal,a) 6,c) A switch statement,a) View Controller
+time,matthewjs1234@aol.com,2/4,Mathew S,c) x must be initialized as a var.,d) Code does not compile,a) if-else statements,a) View Controller
